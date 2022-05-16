@@ -1,0 +1,15 @@
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\obj\Debug\net6.0\ExampleStack.csproj.AssemblyReference.cache
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\obj\Debug\net6.0\ExampleStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\obj\Debug\net6.0\ExampleStack.AssemblyInfoInputs.cache
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\obj\Debug\net6.0\ExampleStack.AssemblyInfo.cs
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\obj\Debug\net6.0\ExampleStack.csproj.CoreCompileInputs.cache
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\bin\Debug\net6.0\ExampleStack.exe
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\bin\Debug\net6.0\ExampleStack.deps.json
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\bin\Debug\net6.0\ExampleStack.runtimeconfig.json
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\bin\Debug\net6.0\ExampleStack.dll
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\bin\Debug\net6.0\ExampleStack.pdb
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\obj\Debug\net6.0\ExampleStack.dll
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\obj\Debug\net6.0\refint\ExampleStack.dll
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\obj\Debug\net6.0\ExampleStack.pdb
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\obj\Debug\net6.0\ExampleStack.genruntimeconfig.cache
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\ExampleStack\obj\Debug\net6.0\ref\ExampleStack.dll
